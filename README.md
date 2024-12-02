@@ -1,5 +1,5 @@
-# advent-of-code-2023
-My answers for Advent of Code 2023. All answers in JavaScript.
+# advent-of-code-2024
+My answers for Advent of Code 2024. All answers in JavaScript.
 
 ```
     _\/_
