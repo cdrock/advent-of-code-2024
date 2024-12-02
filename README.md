@@ -1,2 +1,18 @@
-# advent-of-code-2024
-Advent of Code 2024
+# advent-of-code-2023
+My answers for Advent of Code 2023. All answers in JavaScript.
+
+```
+    _\/_
+     /\
+     /\
+    /  \
+    /~~\o
+   /o   \
+  /~~*~~~\
+ o/    o \
+ /~~~~~~~~\~`
+/__*_______\
+     ||
+   \====/
+    \__/
+```
